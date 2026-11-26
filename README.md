@@ -131,17 +131,17 @@ plt.axis('off')
 
 ### 1. Original Image
 
-<img width="263" height="311" alt="image" src="https://github.com/user-attachments/assets/46cac687-9873-4f8a-8621-b1e8353663a1" />
+<img width="262" height="307" alt="image" src="https://github.com/user-attachments/assets/d11b0480-fa30-47df-bf85-93ee8f73f16a" />
 
 
 ### 2. Erosion
 
-<img width="260" height="305" alt="image" src="https://github.com/user-attachments/assets/4a26ede9-01f2-4f41-8e24-0f61efe5ec43" />
+<img width="267" height="307" alt="image" src="https://github.com/user-attachments/assets/4cc5b611-4299-4581-980e-0ed6fc2cfde0" />
 
 
 ### 3. Dilation
 
-<img width="437" height="485" alt="image" src="https://github.com/user-attachments/assets/266b5d71-9be2-423e-8022-42c79f78bd34" />
+<img width="271" height="307" alt="image" src="https://github.com/user-attachments/assets/2a84cdca-d94f-422e-aace-7848501f1ae7" />
 
 
 ## Result
